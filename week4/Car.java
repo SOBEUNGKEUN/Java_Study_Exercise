@@ -17,7 +17,7 @@ public class Car {
 	}
 	
 	public static void main(String[] args) {
-		Car car = new Car("new model", 3000, 1, "Red");
+		Car car = new Car("new model", 3500, 2, "Red");
 	}
 
 }
